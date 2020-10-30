@@ -1,0 +1,18 @@
+hostname,protocol,port,username,folder
+ibcx1004vm001ssc001p1n003v001.17291f.CHG1.tci.att.com,SSH2,22,root,Prod IBCXs
+ibcx1011vm001ssc001p1n003v001.17291f.EWR4.tci.att.com,SSH2,22,root,Prod IBCXs
+ibcx1015vm001ssc001p1n003v001.17291f.WAH1.tci.att.com,SSH2,22,root,Prod IBCXs
+ibcx1021vm001ssc001p1n003v001.17291f.AKR1.tci.att.com,SSH2,22,root,Prod IBCXs
+ibcx1025vm001ssc001p1n003v001.17291f.EWR4.tci.att.com,SSH2,22,root,Prod IBCXs
+ibcx1026vm001ssc001p1n003v001.17291f.WAH1.tci.att.com,SSH2,22,root,Prod IBCXs
+ibcx1041vm001ssc001p1n003v001.17291f.WHP1.tci.att.com,SSH2,22,root,Prod IBCXs
+ibcx1017vm001ssc001p1n003v001.17291f.CHG1.tci.att.com,SSH2,22,root,Prod IBCXs
+ibcx1035vm001ssc001p1n003v001.17291f.EWR4.tci.att.com,SSH2,22,root,Prod IBCXs
+ibcx1036vm001ssc001p1n003v001.17291f.WAH1.tci.att.com,SSH2,22,root,Prod IBCXs
+ibcx1041vm001ssc001p1n003v002.17291f.WHP1.tci.att.com,SSH2,22,root,Prod IBCXs
+
+
+
+
+
+

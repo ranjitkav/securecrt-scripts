@@ -1,0 +1,7 @@
+description,folder,hostname,protocol,port,username
+wa1il01isc,Lab ISCs,192.20.176.74,SSH2,22,lss
+wb1il01isc,Lab ISCs,192.20.177.74,SSH2,22,lss
+wc1il01isc,Lab ISCs,192.20.178.74,SSH2,22,lss
+wd1il01isc,Lab ISCs,192.20.179.80,SSH2,22,lss
+we1il01isc,Lab ISCs,192.20.150.74,SSH2,22,lss
+wf1il01isc,Lab ISCs,192.20.151.74,SSH2,22,lss

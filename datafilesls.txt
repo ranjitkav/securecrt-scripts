@@ -1,0 +1,14 @@
+hostname,protocol,port,username,session_name,folder
+135.190.170.28,SSH2,22,user,aa0ga01sls,Prod SLSs
+135.190.170.29,SSH2,22,user,aa0ga02sls,Prod SLSs
+135.193.184.31,SSH2,22,user,oa0ca01sls,Prod SLSs
+135.193.184.32,SSH2,22,user,oa0ca02sls,Prod SLSs
+135.190.170.142,SSH2,22,user,or0fl01sls,Prod SLSs
+135.190.170.143,SSH2,22,user,or0fl02sls,Prod SLSs
+135.193.139.134,SSH2,22,user,se0wa01sls,Prod SLSs
+135.193.139.135,SSH2,22,user,se0wa02sls,Prod SLSs
+
+
+
+
+

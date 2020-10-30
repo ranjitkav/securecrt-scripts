@@ -1,0 +1,7 @@
+session_name,folder,hostname,protocol,port,username
+wa1il02isc,Lab ISCs,192.20.176.80,SSH2,22,lss
+wb1il02isc,Lab ISCs,192.20.177.80,SSH2,22,lss
+wc1il02isc,Lab ISCs,192.20.178.80,SSH2,22,lss
+wd1il02isc,Lab ISCs,192.20.179.80,SSH2,22,lss
+we1il02isc,Lab ISCs,192.20.150.80,SSH2,22,lss
+wf1il02isc,Lab ISCs,192.20.151.80,SSH2,22,lss
